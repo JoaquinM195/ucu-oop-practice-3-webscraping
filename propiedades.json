@@ -4,129 +4,64 @@
       "nombre": "Montevideo",
       "propiedades": [
         {
-          "precio": 128000,
-          "tamano": 54,
-          "habitaciones": 2,
-          "link": "https://inmobiliariauruguay.com/property/apartamento-de-2-dormitorios-en-buceo-montevideo/"
-        },
-        {
-          "precio": 130000,
-          "tamano": 82,
-          "habitaciones": 2,
-          "link": "https://inmobiliariauruguay.com/property/casa-2-dormitorios-fondo-entrada-auto-con-porton-en-la-union-montevideo/"
-        },
-        {
-          "precio": 100000,
-          "tamano": 222,
-          "habitaciones": 2,
-          "link": "https://inmobiliariauruguay.com/property/2-casa-en-venta-en-punta-de-manga-montevideo/"
-        },
-        {
-          "precio": 90000,
-          "tamano": 100,
+          "precio": 1100,
+          "tamano": 70,
           "habitaciones": 3,
-          "link": "https://inmobiliariauruguay.com/property/2-casas-en-un-mismo-padron-en-puntas-de-manga-montevideo/"
+          "link": "https://casasweb.com/ALQUILER__INNOVA_PROPIEDADES_APARTAMENTO_POCITOS_MONTEVIDEO_CW223700"
         },
         {
-          "precio": 260000,
-          "tamano": null,
-          "habitaciones": null,
-          "link": "https://inmobiliariauruguay.com/property/galpon-a-la-venta-en-montevideo-2/"
+          "precio": 3000,
+          "tamano": 140,
+          "habitaciones": 3,
+          "link": "https://casasweb.com/ALQUILER_VENTA_PÉREZ_DEL_CASTILLO_APARTAMENTO_CARRASCO_MONTEVIDEO_CW230762"
         },
         {
-          "precio": 195000,
-          "tamano": null,
-          "habitaciones": null,
-          "link": "https://inmobiliariauruguay.com/property/galpon-a-la-venta-en-montevideo/"
+          "precio": 3200,
+          "tamano": 198,
+          "habitaciones": 3,
+          "link": "https://casasweb.com/ALQUILER__XOHA_BIENES_RAÍCES_APARTAMENTO_CARRASCO_MONTEVIDEO_CW236747"
         },
         {
-          "precio": 135000,
-          "tamano": null,
-          "habitaciones": null,
-          "link": "https://inmobiliariauruguay.com/property/apartamento-en-montevideo-9/"
-        },
-        {
-          "precio": 159000,
-          "tamano": null,
-          "habitaciones": null,
-          "link": "https://inmobiliariauruguay.com/property/apartamento-en-montevideo-8/"
-        },
-        {
-          "precio": 320000,
-          "tamano": null,
-          "habitaciones": null,
-          "link": "https://inmobiliariauruguay.com/property/hermoso-apartamento-en-montevideo/"
-        },
-        {
-          "precio": 215000,
-          "tamano": null,
-          "habitaciones": null,
-          "link": "https://inmobiliariauruguay.com/property/apartamento-en-montevideo-6/"
-        }
-      ]
-    },
-    {
-      "nombre": "Maldonado",
-      "propiedades": [
-        {
-          "precio": 2619500,
-          "tamano": 403,
+          "precio": 3500,
+          "tamano": 171,
           "habitaciones": 4,
-          "link": "https://inmobiliariauruguay.com/property/campo-de-403has-ganadero-eolico-en-sierra-de-los-caracoles-maldonado/"
+          "link": "https://casasweb.com/ALQUILER__SAROKA_PROPIEDADES_APARTAMENTO_CARRASCO_MONTEVIDEO_CW240862"
         },
         {
-          "precio": 165000,
-          "tamano": 54,
+          "precio": 8300,
+          "tamano": 72,
+          "habitaciones": 3,
+          "link": "https://casasweb.com/ALQUILER__ARTIGAS_INMOBILIARIA_APARTAMENTO_AGUADA_MONTEVIDEO_CW148365"
+        },
+        {
+          "precio": 8500,
+          "tamano": 17,
+          "habitaciones": null,
+          "link": "https://casasweb.com/ALQUILER_VENTA_ASTRO_BIENES_RAÍCES_APARTAMENTO_CIUDAD_VIEJA_MONTEVIDEO_CW234176"
+        },
+        {
+          "precio": 10500,
+          "tamano": 24,
+          "habitaciones": null,
+          "link": "https://casasweb.com/ALQUILER__SYG_NEGOCIOS_INMOBILIARIOS_APARTAMENTO_PEÑAROL_MONTEVIDEO_CW131828"
+        },
+        {
+          "precio": 11000,
+          "tamano": 25,
+          "habitaciones": null,
+          "link": "https://casasweb.com/ALQUILER__INMOBILIARIA_DECIA_HNOS_APARTAMENTO_UNIÓN_MONTEVIDEO_CW238638"
+        },
+        {
+          "precio": 11000,
+          "tamano": 23,
           "habitaciones": 1,
-          "link": "https://inmobiliariauruguay.com/property/apartamento-en-green-park-solanas-punta-del-este-maldonado/"
+          "link": "https://casasweb.com/ALQUILER__INMOBILIARIA_DECIA_HNOS_APARTAMENTO_FLOR_DE_MAROÑAS_MONTEVIDEO_CW233697"
         },
         {
-          "precio": 80000,
-          "tamano": 922,
-          "habitaciones": 3,
-          "link": "https://inmobiliariauruguay.com/property/casa-en-venta-3-dormitorios-amplio-terreno-en-aigua-maldonado/"
-        },
-        {
-          "precio": 260000,
-          "tamano": 200,
-          "habitaciones": 5,
-          "link": "https://inmobiliariauruguay.com/property/casa-en-venta-5-dormitorios-2-banos-en-la-pedrera-rocha/"
-        },
-        {
-          "precio": 499800,
-          "tamano": 119,
-          "habitaciones": null,
-          "link": "https://inmobiliariauruguay.com/property/campo-ganadero-de-119-has-en-carape-maldonado/"
-        },
-        {
-          "precio": 40000,
-          "tamano": 525,
-          "habitaciones": null,
-          "link": "https://inmobiliariauruguay.com/property/terreno-en-venta-de-525-m2-en-playa-verde-maldonado/"
-        },
-        {
-          "precio": 240000,
-          "tamano": 207,
-          "habitaciones": 3,
-          "link": "https://inmobiliariauruguay.com/property/casa-en-venta-en-playa-grande-maldonado/"
-        },
-        {
-          "precio": 480000,
-          "tamano": 10,
-          "habitaciones": null,
-          "link": "https://inmobiliariauruguay.com/property/campor-turistico-de-10-has-en-maldonado/"
-        },
-        {
-          "precio": 2500000,
-          "tamano": 10457,
-          "habitaciones": null,
-          "link": "https://inmobiliariauruguay.com/property/terreno-en-venta-de-10457-m2-en-punta-del-este-maldonado/"
-        },
-        {
-          "precio": 200000,
-          "tamano": 100,
-          "habitaciones": 9,
-          "link": "https://inmobiliariauruguay.com/property/casa-de-4-dormitorios-y-demas-comodidades-en-aigua-maldonado/"
+          "precio": 11500,
+          "tamano": 14,
+          "habitaciones": 1,
+          "link": "https://casasweb.com/ALQUILER__RIAL_PROPIEDADES_APARTAMENTO_CORDÓN_MONTEVIDEO_CW224103"
         }
       ]
     },
@@ -134,64 +69,129 @@
       "nombre": "Canelones",
       "propiedades": [
         {
-          "precio": 240000,
+          "precio": 2750,
+          "tamano": 220,
+          "habitaciones": 3,
+          "link": "https://casasweb.com/ALQUILER__SAROKA_PROPIEDADES_APARTAMENTO_BARRA_DE_CARRASCO_CANELONES_CW238242"
+        },
+        {
+          "precio": 9000,
+          "tamano": 50,
+          "habitaciones": 1,
+          "link": "https://casasweb.com/ALQUILER__OFICINA_RAMIREZ_APARTAMENTO_LAS_PIEDRAS_CANELONES_CW199565"
+        },
+        {
+          "precio": 9500,
+          "tamano": 40,
+          "habitaciones": 1,
+          "link": "https://casasweb.com/ALQUILER__OFICINA_RAMIREZ_APARTAMENTO_LAS_PIEDRAS_CANELONES_CW171935"
+        },
+        {
+          "precio": 10000,
+          "tamano": null,
+          "habitaciones": 1,
+          "link": "https://casasweb.com/ALQUILER__CARÁMBULA_ADMINISTRACIONES_APARTAMENTO_LAS_PIEDRAS_CANELONES_CW227763"
+        },
+        {
+          "precio": 11000,
+          "tamano": null,
+          "habitaciones": 1,
+          "link": "https://casasweb.com/ALQUILER__CARÁMBULA_ADMINISTRACIONES_APARTAMENTO_LAS_PIEDRAS_CANELONES_CW232448"
+        },
+        {
+          "precio": 11800,
+          "tamano": null,
+          "habitaciones": 1,
+          "link": "https://casasweb.com/ALQUILER__CARÁMBULA_ADMINISTRACIONES_APARTAMENTO_LAS_PIEDRAS_CANELONES_CW237564"
+        },
+        {
+          "precio": 12000,
+          "tamano": null,
+          "habitaciones": 1,
+          "link": "https://casasweb.com/ALQUILER__CARÁMBULA_ADMINISTRACIONES_APARTAMENTO_LAS_PIEDRAS_CANELONES_CW238768"
+        },
+        {
+          "precio": 13000,
           "tamano": 20,
           "habitaciones": null,
-          "link": "https://inmobiliariauruguay.com/property/campo-ganadero-con-casa-y-galpon-de-20-has-en-canelones/"
+          "link": "https://casasweb.com/ALQUILER__OFICINA_RAMIREZ_APARTAMENTO_LAS_PIEDRAS_CANELONES_CW237579"
         },
         {
-          "precio": 135000,
-          "tamano": 1,
-          "habitaciones": 3,
-          "link": "https://inmobiliariauruguay.com/property/chacra-de-18-has-turistica-en-canelones-a-3-km-de-soca/"
+          "precio": 14000,
+          "tamano": 30,
+          "habitaciones": 1,
+          "link": "https://casasweb.com/ALQUILER__ALL_IN_ONE_PROPIEDADES_APARTAMENTO_COLINAS_DE_SOLYMAR_CANELONES_CW229109"
         },
         {
-          "precio": 63000,
-          "tamano": 65,
-          "habitaciones": 4,
-          "link": "https://inmobiliariauruguay.com/property/casa-en-venta-4-dormitorios-en-balneario-san-luis-canelones/"
-        },
-        {
-          "precio": 1192000,
-          "tamano": 149,
+          "precio": 14000,
+          "tamano": 25,
           "habitaciones": null,
-          "link": "https://inmobiliariauruguay.com/property/campo-agricola-149-has-en-canelones/"
-        },
+          "link": "https://casasweb.com/ALQUILER__GERARDO_OLEGGINI_PROPIEDADES_APARTAMENTO_PASO_CARRASCO_CANELONES_CW194802"
+        }
+      ]
+    },
+    {
+      "nombre": "Maldonado",
+      "propiedades": [
         {
-          "precio": 160000,
-          "tamano": 79,
-          "habitaciones": 2,
-          "link": "https://inmobiliariauruguay.com/property/apartamento-en-venta-en-el-centro-de-minas-2-dormitorios-y-2-banos-a-1-cuadra-de-plaza-libertad/"
-        },
-        {
-          "precio": 144500,
-          "tamano": 17,
-          "habitaciones": null,
-          "link": "https://inmobiliariauruguay.com/property/17-has-agricola-ganaderas-en-canelones-con-arroyo/"
-        },
-        {
-          "precio": 1438,
-          "tamano": 50,
-          "habitaciones": 2,
-          "link": "https://inmobiliariauruguay.com/property/casa-2-dormitorios-amplio-tereno-en-san-luis-canelones/"
-        },
-        {
-          "precio": 149000,
-          "tamano": 11,
-          "habitaciones": null,
-          "link": "https://inmobiliariauruguay.com/property/campo-agricola-ganadero-11-has-en-canelones/"
-        },
-        {
-          "precio": 300000,
-          "tamano": 700,
-          "habitaciones": 3,
-          "link": "https://inmobiliariauruguay.com/property/casa-en-venta-en-la-floresta-a-1-cuadra-de-la-playa/"
-        },
-        {
-          "precio": 185000,
+          "precio": 4000,
           "tamano": null,
-          "habitaciones": null,
-          "link": "https://inmobiliariauruguay.com/property/casa-en-venta-en-solymar/"
+          "habitaciones": 4,
+          "link": "https://casasweb.com/ALQUILER_VENTA_KW_ONE___PUNTA_DEL_ESTE_APARTAMENTO_PUNTA_DEL_ESTE___MARLY_MALDONADO_CW238800"
+        },
+        {
+          "precio": 195,
+          "tamano": null,
+          "habitaciones": 1,
+          "link": "https://casasweb.com/ALQUILER__KW_ONE___PUNTA_DEL_ESTE_APARTAMENTO_SOLANAS_MALDONADO_CW171072"
+        },
+        {
+          "precio": 270,
+          "tamano": 110,
+          "habitaciones": 3,
+          "link": "https://casasweb.com/ALQUILER_VENTA_FINKO_REAL_ESTATE_APARTAMENTO_PUNTA_DEL_ESTE___PENINSULA_MALDONADO_CW208585"
+        },
+        {
+          "precio": 350,
+          "tamano": null,
+          "habitaciones": 3,
+          "link": "https://casasweb.com/ALQUILER__KW_ONE___PUNTA_DEL_ESTE_APARTAMENTO_PUNTA_DEL_ESTE___PLAYA_MANSA_MALDONADO_CW227563"
+        },
+        {
+          "precio": 28000,
+          "tamano": 60,
+          "habitaciones": 1,
+          "link": "https://casasweb.com/ALQUILER__DIEGO_AGUILERA_INMOBILIARIA_APARTAMENTO_PUNTA_DEL_ESTE___PENINSULA_MALDONADO_CW240869"
+        },
+        {
+          "precio": 28000,
+          "tamano": 70,
+          "habitaciones": 2,
+          "link": "https://casasweb.com/ALQUILER__SCARPELLI_NEGOCIOS_INMOBILIARIOS_APARTAMENTO_MALDONADO_MALDONADO_CW216845"
+        },
+        {
+          "precio": 800,
+          "tamano": 40,
+          "habitaciones": 1,
+          "link": "https://casasweb.com/ALQUILER__KW_ONE___PUNTA_CARRETAS_APARTAMENTO_PUNTA_DEL_ESTE___PENINSULA_MALDONADO_CW240580"
+        },
+        {
+          "precio": 800,
+          "tamano": 40,
+          "habitaciones": 1,
+          "link": "https://casasweb.com/ALQUILER__KW_ONE___PUNTA_DEL_ESTE_APARTAMENTO_PUNTA_DEL_ESTE___PENINSULA_MALDONADO_CW238087"
+        },
+        {
+          "precio": 800,
+          "tamano": null,
+          "habitaciones": 1,
+          "link": "https://casasweb.com/ALQUILER__KW_ONE___PUNTA_DEL_ESTE_APARTAMENTO_PUNTA_DEL_ESTE___AIDY_GRILL_MALDONADO_CW238738"
+        },
+        {
+          "precio": 33500,
+          "tamano": 35,
+          "habitaciones": 1,
+          "link": "https://casasweb.com/ALQUILER__KW_RED_APARTAMENTO_PUNTA_DEL_ESTE___AIDY_GRILL_MALDONADO_CW236045"
         }
       ]
     }
